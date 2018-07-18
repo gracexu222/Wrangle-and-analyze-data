@@ -22,6 +22,9 @@ This project wrangled, analyzed and visualized the tweet archive of Twitter user
 - `wrangle_act.ipynb`: The main file containing all the gathering, wrangling and analyzing work.
 - `wrangle_act.html`: download ,html.
 - `Visualiztion Png`: Visualization pictures
+-  `act_report` : visualization and insight report
+-  `Wrangle_report.ipynb`:wrangle report
+-  `wrangle_report.html`: download ,html
 
 ## Table of Contents
 
